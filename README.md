@@ -37,3 +37,7 @@ I'm doing here, see
 ### Install required modules
 
 `cabal install ansi-terminal`
+
+## Run any of the programs
+
+`runghc anyoftheprograms.hs`
